@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# Mikael Dúi Bolinder
+I currently maintain repositories for:
+ - Desktop Applications
+ - .NET Clients
+ - .NET Libraries
+ - .NET Extensions
 
-You can use the [editor on GitHub](https://github.com/mikaeldui/mikaeldui.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Desktop Applications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ChampionMastery.GG
+Both a WinUI 3 and a UWP version.
 
-### Markdown
+### Mina läromedel
+For downloading and reading teaching e-books. Works great on touch screens.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## .NET Clients
+I maintain unofficial .NET clients for:
 
-```markdown
-Syntax highlighted code block
+### Riot Games
+For their games League of Legends, Legends of Runeterra, Teamfight Tactics and Valorant.
 
-# Header 1
-## Header 2
-### Header 3
+    dotnet add package MikaelDui.RiotGames.Client --version *
+    
+### ChampionMastery.GG
+To retrieve highscores and masteries for individual players.
 
-- Bulleted
-- List
+    dotnet add package MikaelDui.ChampionMasteryGg.Client --version *
+    
+### Swedish
 
-1. Numbered
-2. List
+#### Skolplattformen
+A JavaScript client for Skolplattformen was very hyped in the news so I ported it to .NET.
 
-**Bold** and _Italic_ and `Code` text
+    dotnet add package MikaelDui.Skolplattformen.Client --version *
+    
+#### Liber Onlinebok
+For downloading e-books from Liber's Onlinebok.
 
-[Link](url) and ![Image](src)
-```
+    dotnet add package MikaelDui.Liber.Onlinebok.Client --version *
+    
+## .NET Libraries
+Extra classes for 3rd party .NET libraries.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### System.Net.Http.Json
+Contains extra classes for `System.Net.Http.Json`.
 
-### Jekyll Themes
+    dotnet add package MikaelDui.Net.Http.Json --version *
+    
+### Newtonsoft.Json
+Contains extra classes for `Newtonsoft.Json`.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikaeldui/mikaeldui.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    dotnet add package MikaelDui.Newtonsoft.Json --version *
 
-### Support or Contact
+## .NET Extensions
+I frequently use extensions in all my projects so I maintain them in central repositories.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### System Extensions
+Extensions to the `System` namespace.
+
+    dotnet add package MikaelDui.Extensions --version *
+    
+### C# Code Analysis
+Extensions to `Microsoft.CodeAnalysis.CSharp`.
+
+    dotnet add package MikaelDui.CodeAnalysis.CSharp.Extensions
+    
+### HtmlAgilityPack
+Extensions to `HtmlAgilityPack`.
+
+    dotnet add package MikaelDui.HtmlAgilityPack.Extensions
+
