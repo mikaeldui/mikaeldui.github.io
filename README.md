@@ -14,6 +14,11 @@ Both a [WinUI 3](https://github.com/mikaeldui/ChampionMastery.GG-winui) and a [U
 ### [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel)
 For downloading and reading teaching e-books. Works great on touch screens.
 
+## Web Applications
+
+### [ChampionMastery.Blazor](https://mikaeldui.github.io/champion-mastery)
+A blazor app for looking up champion masteries.
+
 ## .NET Clients
 I maintain unofficial .NET clients for:
 
