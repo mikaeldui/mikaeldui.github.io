@@ -8,13 +8,10 @@ I currently maintain repositories for:
 
 ## Web Applications
 
-### [ChampionMastery.Blazor](https://mikaeldui.github.io/champion-mastery)
-A blazor app for looking up champion masteries.
+### [The Masteries Quest](https://masteries.quest)
+A Blazor WebAssembly app for looking up champion masteries. It has a Cloudflare Workers "backend".
 
 ## Desktop Applications
-
-### ChampionMastery.GG
-Both a [WinUI 3](https://github.com/mikaeldui/ChampionMastery.GG-winui) and a [UWP](https://github.com/mikaeldui/ChampionMastery.GG-uwp) version.
 
 ### [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel)
 For downloading and reading teaching e-books. Works great on touch screens.
