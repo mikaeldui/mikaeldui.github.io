@@ -44,12 +44,12 @@ For downloading e-books from Liber's Onlinebok.
 ## .NET Libraries
 Extra classes for 3rd party .NET libraries.
 
-### System.Net.Http.Json
+### System.Net.Http.Json Extra Classes
 Contains extra classes for `System.Net.Http.Json`.
 
     dotnet add package MikaelDui.Net.Http.Json --version *
     
-### Newtonsoft.Json
+### Newtonsoft.Json Extra Classes
 Contains extra classes for `Newtonsoft.Json`.
 
     dotnet add package MikaelDui.Newtonsoft.Json --version *
