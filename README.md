@@ -67,7 +67,7 @@ Extensions to `Microsoft.CodeAnalysis.CSharp`.
 
     dotnet add package MikaelDui.CodeAnalysis.CSharp.Extensions
     
-### [HtmlAgilityPack](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
+### [HtmlAgilityPack Extensions](https://github.com/mikaeldui/HtmlAgilityPack-extensions)
 Extensions to `HtmlAgilityPack`.
 
     dotnet add package MikaelDui.HtmlAgilityPack.Extensions
