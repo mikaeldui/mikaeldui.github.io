@@ -25,7 +25,7 @@ For their games League of Legends, Legends of Runeterra, Teamfight Tactics and V
     dotnet add package MikaelDui.RiotGames.Client --version *
     
 ### [ChampionMastery.GG](https://github.com/mikaeldui/ChampionMastery.GG-dotnet-client)
-To retrieve highscores and masteries for individual players.
+For getting mastery highscores for the game League of Legends.
 
     dotnet add package MikaelDui.ChampionMasteryGg.Client --version *
     
