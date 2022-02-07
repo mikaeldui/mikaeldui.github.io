@@ -6,12 +6,10 @@ I currently maintain repositories for:
  - [.NET Extensions](#net-extensions)
  - [GitHub Actions](#github-actions)
 
-## Web Applications
+## Apps
 
 ### [The Masteries Quest](https://masteries.quest)
 A Blazor WebAssembly app for looking up champion masteries. It has a Cloudflare Workers "backend".
-
-## Desktop Applications
 
 ### [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel)
 For downloading and reading teaching e-books. Works great on touch screens.
