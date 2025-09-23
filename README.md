@@ -1,8 +1,5 @@
 # Mikael Dúi Bolinder
 
-## Quote
-> I think life is what you'll remember when you die and your entire life is flashing through your eyes. If you want to die in pain then be bad to other people and you'll be stuck in an endless loop of regret, or you can be a good person and you can die in peace, knowing that you've done your part. In the end nothing really matters.
-
 ### Contact
 - E-mail: contact.github@bolinder.uk
 - Matrix: [@mikaeldui:bolinder.uk](https://matrix.to/#/@mikaeldui:bolinder.uk)
