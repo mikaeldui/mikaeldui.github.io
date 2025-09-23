@@ -1,7 +1,7 @@
 # Mikael Dúi Bolinder
 
 ### Contact
-- E-mail: contact.github@bolinder.uk
+- E-mail: 6a7e63e8-f2df-478b-98e0-6f97cf7076be@bolinder.uk
 - Matrix: [@mikaeldui:bolinder.uk](https://matrix.to/#/@mikaeldui:bolinder.uk)
 - Bitcoin: [bc1qc82qca7dn9afj3p6mujuhvhwj98e93txuzst2n](bitcoin:bc1qc82qca7dn9afj3p6mujuhvhwj98e93txuzst2n)
 
